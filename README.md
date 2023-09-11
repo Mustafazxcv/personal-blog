@@ -1,1 +1,1 @@
-#Kendi Blog Sitem | mustafamete.com.tr
+# Kendi Blog Sitem | mustafamete.com.tr
